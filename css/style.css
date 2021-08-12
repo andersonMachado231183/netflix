@@ -14,7 +14,7 @@
 body{
     color: white;
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
 }
 h2{
     color: var(--vermelho);
@@ -89,4 +89,7 @@ header nav a:hover{
     height: 100%;
     display: block;
     border-radius: 15px;
+}
+.filme-principal{
+    margin-top: 5px;
 }
